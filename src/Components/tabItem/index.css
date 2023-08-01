@@ -1,0 +1,18 @@
+.tabItem-container {
+  list-style: none;
+}
+.tabItem-button {
+  display: flex;
+  font-size: 22px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+}
+.tabItem1 {
+  display: flex;
+  font-size: 22px;
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  border-bottom: #fec653;
+}
